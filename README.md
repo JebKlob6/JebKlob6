@@ -1,10 +1,4 @@
-💻 - Computer Science Major 
 
-Currently ~ 🍎 Apple Genius
+🤖 Machine Learning Engineer @ 🍎
 
-Ambitions to be{
-☁️ ~ Cloud
-,🕸️ ~ Web
-}. Developer
-
-
+🚀 Platform Developer | 🧠 Large Language Model Architect

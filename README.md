@@ -35,14 +35,13 @@ Welcome to my repository of Jupyter Lab notebooks, a chronicle of my journey thr
 
 The repository is methodically organized according to the courses and their respective weeks, containing notebooks and datasets critical to each week's learning objectives.
 
-Here's a quick overview of the courses covered:
+- **Advanced Learning Algorithms**
+  - Weeks 1, 2: Exploration of cutting-edge algorithms and their real-world applications.
+- **Supervised Learning: Regression & Classification**
+  - Weeks 1 to 4: Deep dive into supervised learning techniques, focusing on both regression and classification challenges.
+- **Unsupervised Learning, Reinforcement Learning & Recommenders**
+  - Weeks 1 to 3: Discovering the potential of unsupervised learning, reinforcement learning strategies, and recommendation systems.
 
-- **Advanced Learning Algorithms: 
-  -Exploring advanced algorithms and their applications.
-- **Supervised Learning: Regression & Classification:
-  -Diving deep into supervised learning techniques for both regression and classification problems.
-- **Unsupervised Learning, Reinforcement Learning & Recommenders:
-  -Uncovering the power of unsupervised learning, reinforcement learning, and recommendation systems.
 ---
 
 Feel free to explore my repositories and dive into the projects that intrigue you. If you have questions or would like to collaborate, hit me up!
